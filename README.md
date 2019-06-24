@@ -3,6 +3,8 @@ Easy tooltips for UI elements in Unity.
 
 Tooltips will automatically move to ensure they do not go off the screen.
 
+![Alt text](Tooltip Image.png?raw=true "Example image")
+
 ## Usage:
 
 1) Download and add UITooltip.cs to your Unity project.
