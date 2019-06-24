@@ -3,7 +3,7 @@ Easy tooltips for UI elements in Unity.
 
 Tooltips will automatically move to ensure they do not go off the screen.
 
-![Alt text](Tooltip Image.png?raw=true "Example image")
+![Alt text](https://github.com/LachlanWoods/Unity-UI-Tooltip/blob/master/Tooltip%20Image.png)
 
 ## Usage:
 
